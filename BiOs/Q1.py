@@ -1,1 +1,0 @@
-print("Namah Shivaya ! ")
